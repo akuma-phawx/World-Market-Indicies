@@ -1,4 +1,4 @@
-# World Market Indices 
+# World Market Indices !
 
 For the frontend:
 Vue (Vue2, Vuex, Router)
